@@ -23,7 +23,7 @@ local white_bold=$fg_bold[white]
 
 local highlight_bg=$bg[red]
 
-local zeta='ζ'
+local zeta='$'
 
 # Machine name.
 function get_box_name {
